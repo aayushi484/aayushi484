@@ -23,7 +23,7 @@
   I'm currently pursuing my B.Tech in Cybersecurity at Jain University, with a strong focus on SOC operations, threat detection, and security analysis
 </p>
 <p>
-  I enjoy exploring how secure, resilient systems are designed to address evolving digital risks. Right now, I'm particularly interested in the intersection of AI and cybersecurity—exploring how intelligent systems and machine learning can be used to strengthen modern defense solutions.
+  I enjoy exploring how secure, resilient systems are designed to address evolving digital risks. Right now, I'm particularly interested in the intersection of AI and cybersecurity, exploring how intelligent systems and machine learning can be used to strengthen modern defense solutions.
 </p>
 
 <br />
@@ -34,7 +34,12 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
@@ -78,7 +83,7 @@
 <p>
   <b>🏆 Hackathons & CTFs</b>
   <br />
-  Active participant in security CTFs and competitive hackathons, testing defensive capabilities, threat analysis, and rapid security tool prototyping[cite: 1].
+  Actively participating in competitive hackathons, CTFs, and security workshops. Achievements include securing 1st place in the Rezonix Researchathon, 2nd place in the national-level hackathon Inceptrix, and 2nd place out of 173 teams in Hackverse
 </p>
 
 <br />
