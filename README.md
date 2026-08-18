@@ -44,38 +44,46 @@
 <br />
 
 <!-- FEATURED PROJECTS -->
-<h3>📌 What I've Built</h3>
+<h3>📌 Featured Projects</h3>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px; background-color: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
-      <h4>🛡️ <a href="https://github.com/aayushi484/MalScan">MalScan</a></h4>
-      <p>An AI-assisted static malware analyzer built with Python & Streamlit. Extracts binary hashes, entropy, and strings while querying VirusTotal & MalwareBazaar to calculate a dynamic risk score.</p>
-      <p><sub><code>Python</code> • <code>Streamlit</code> • <code>Threat Intel APIs</code></sub></p>
-    </td>
-    <td width="50%" valign="top" style="padding: 12px; background-color: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
-      <h4>📡 <a href="https://github.com/aayushi484/esp32-nas">ESP32 Secure NAS</a></h4>
-      <p>A lightweight, low-power storage & communication setup on ESP32 microcontrollers for secure local file sharing under network constraints.</p>
-      <p><sub><code>Embedded Systems</code> • <code>IoT Security</code> • <code>C/C++</code></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px; background-color: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
-      <h4>🔐 <a href="https://github.com/aayushi484/linguistic-encryption">Linguistic Encryption</a></h4>
-      <p>A rule-based custom encryption engine designed in Python to experiment with cryptographic logic and secure data handling mechanisms.</p>
-      <p><sub><code>Python</code> • <code>Cryptography</code></sub></p>
-    </td>
-    <td width="50%" valign="top" style="padding: 12px; background-color: #0d1117; border-radius: 6px; border: 1px solid #30363d;">
-      <h4>🏆 Hackathons & CTFs</h4>
-      <p>Regularly competing in security CTFs and university hackathons to test defensive skills and rapid prototype security tools under time limits.</p>
-      <p><sub><code>Blue Teaming</code> • <code>Analysis</code> • <code>Labs</code></sub></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <b>🛡️ <a href="https://github.com/aayushi484/MalScan">MalScan</a></b> &nbsp;•&nbsp; 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <br />
+  Static malware behavior analyzer parsing binary indicators and querying external threat intelligence APIs (VirusTotal & MalwareBazaar) for dynamic risk scoring[cite: 1].
+</p>
+
+<hr style="border: 0; border-top: 1px solid #21262d;" />
+
+<p>
+  <b>📡 <a href="https://github.com/aayushi484/esp32-nas">ESP32 Secure NAS</a></b> &nbsp;•&nbsp; 
+  <img src="https://img.shields.io/badge/IoT-Security-00758F?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <br />
+  Lightweight storage and encrypted local data-sharing network built on ESP32 microcontrollers for constrained, low-power environments[cite: 1].
+</p>
+
+<hr style="border: 0; border-top: 1px solid #21262d;" />
+
+<p>
+  <b>🔐 <a href="https://github.com/aayushi484/linguistic-encryption">Linguistic Encryption System</a></b> &nbsp;•&nbsp; 
+  <img src="https://img.shields.io/badge/Cryptography-4B0082?style=flat-square" />
+  <br />
+  Rule-based cryptographic engine implemented in Python for structured data protection and secure handling mechanisms[cite: 1].
+</p>
+
+<hr style="border: 0; border-top: 1px solid #21262d;" />
+
+<p>
+  <b>🏆 Hackathons & CTFs</b>
+  <br />
+  Active participant in security CTFs and competitive hackathons, testing defensive capabilities, threat analysis, and rapid security tool prototyping[cite: 1].
+</p>
 
 <br />
 
 <!-- STATS CARD -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushi484&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aayushi484&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Aayushi's GitHub Stats" />
 </div>
