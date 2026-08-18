@@ -20,10 +20,10 @@
 <!-- ABOUT ME -->
 <h3>Hey there!</h3>
 <p>
-  I'm a <b>B.Tech Cybersecurity</b> student at Jain University passionate about practical defense—specifically how security teams analyze, classify, and mitigate real-world threats.
+  I'm currently pursuing my B.Tech in Cybersecurity at Jain University, with a strong focus on SOC operations, threat detection, and security analysis
 </p>
 <p>
-  My main focus centers on <b>SOC workflows, threat intelligence, and applying AI to security</b>. Right now, I'm working on tools that automate binary analysis, experimenting with low-power embedded network setups, and competing in CTFs whenever I can.
+  I enjoy exploring how secure, resilient systems are designed to address evolving digital risks. Right now, I'm particularly interested in the intersection of AI and cybersecurity—exploring how intelligent systems and machine learning can be used to strengthen modern defense solutions.
 </p>
 
 <br />
