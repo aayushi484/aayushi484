@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <br />
-  Static malware behavior analyzer parsing binary indicators and querying external threat intelligence APIs (VirusTotal & MalwareBazaar) for dynamic risk scoring[cite: 1].
+  Static malware behavior analyzer parsing binary indicators and querying external threat intelligence APIs (VirusTotal & MalwareBazaar) for dynamic risk scoring.
 </p>
 
 <hr style="border: 0; border-top: 1px solid #21262d;" />
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/IoT-Security-00758F?style=flat-square" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <br />
-  Lightweight storage and encrypted local data-sharing network built on ESP32 microcontrollers for constrained, low-power environments[cite: 1].
+  Lightweight storage and encrypted local data-sharing network built on ESP32 microcontrollers for constrained, low-power environments.
 </p>
 
 <hr style="border: 0; border-top: 1px solid #21262d;" />
@@ -75,7 +75,7 @@
   <b>🔐 <a href="https://github.com/aayushi484/linguistic-encryption">Linguistic Encryption System</a></b> &nbsp;•&nbsp; 
   <img src="https://img.shields.io/badge/Cryptography-4B0082?style=flat-square" />
   <br />
-  Rule-based cryptographic engine implemented in Python for structured data protection and secure handling mechanisms[cite: 1].
+  Rule-based cryptographic engine implemented in Python for structured data protection and secure handling mechanisms.
 </p>
 
 <hr style="border: 0; border-top: 1px solid #21262d;" />
